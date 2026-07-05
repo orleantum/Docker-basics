@@ -286,3 +286,8 @@ curl -k https://localhost:$HTTPS_PORT
 <img width="685" height="614" alt="image" src="https://github.com/user-attachments/assets/4ac0e78b-5830-4f38-9a9a-4edeb84c41e3" />
 
 <img width="394" height="98" alt="image" src="https://github.com/user-attachments/assets/d4facd55-c3b3-4e4c-9798-8d419c0e7fb3" />
+
+
+# Итоговая структура проекта
+
+<img width="275" height="270" alt="{A1C9DF5A-342F-414D-B1BB-5008478F32B7}" src="https://github.com/user-attachments/assets/f414aad7-c83e-4311-a6e0-c7c6e0a7ff02" />
